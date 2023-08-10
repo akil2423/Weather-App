@@ -15,6 +15,8 @@ def fetch_weather_and_forecast(request,name):
     print(name,"name....")
     print(name,"name....")
     print(name,"name....")
+    print(name,"name....")
+    print(name,"name....")
     # print(request.ge,"request.....")
     # city="chennai"
     api_key = "f423f2aa64f2650df74dc243f3b5e359"
